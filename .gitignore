@@ -19,3 +19,6 @@ yarn-error.log*
 
 # Cache do Tailwind (opcional)
 .cache/
+
+# Pasta de outros projetos (não deve estar neste repositório)
+Outros-projetos/
